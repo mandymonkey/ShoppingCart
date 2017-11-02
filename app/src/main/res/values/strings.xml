@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蓝牙多天线读写器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">蓝牙读写器配置</string>
+	<string name="action_system">系统配置</string>
+</resources>

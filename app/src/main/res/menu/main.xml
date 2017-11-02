@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.module_android_bluedemo.MainActivity" >
+
+     <item android:id="@+id/action_custom" android:title="私有指令"></item>
+    <item android:id="@+id/action_system" android:title="系统配置"></item>
+    <item android:id="@+id/action_debug" android:title="蓝牙调试"></item>
+    <item android:id="@+id/action_version" android:title="v1.9.0.0"></item>
+
+</menu>

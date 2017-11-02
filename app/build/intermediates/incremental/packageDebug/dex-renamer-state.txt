@@ -1,0 +1,7 @@
+#Wed Sep 13 15:06:12 CST 2017
+base.0=D\:\\BaiduYunDownload\\module_android_bluedemo_532ant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2aa0db529c53f0674dd75facf6a8c2b931cd3dd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\BaiduYunDownload\\module_android_bluedemo_532ant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a144a5a5b397274506ddb90aca35891ce74ad36\\classes.dex
+base.1=D\:\\BaiduYunDownload\\module_android_bluedemo_532ant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a144a5a5b397274506ddb90aca35891ce74ad36
+file.0=D\:\\BaiduYunDownload\\module_android_bluedemo_532ant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2aa0db529c53f0674dd75facf6a8c2b931cd3dd\\classes.dex

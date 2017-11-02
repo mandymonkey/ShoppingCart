@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:5:5-34
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\87be16ce0a899f3138a19aa830084972ad108f97\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\211c753ff9759fd8459199b710bf43407bde4b3a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\bdc0a363d597af5755502b0ecf9e9da273aa26ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\f1e43295fdd77eeb9cb9ac3bbd442629c108c221\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\e65f98a7154f3871721e527f853fffc9ad075394\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\758a6f935e607b4ca3cd098a5ec4e63dfb930d08\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\113cb49e83cddb062e22ce7ee2f2cc90733d35ca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\eeb36417adad0b6b4b4a6132a75f4fb6322714f4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:10:2-64
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:10:19-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:18:22-73
+application
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:20:5-70:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\87be16ce0a899f3138a19aa830084972ad108f97\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\211c753ff9759fd8459199b710bf43407bde4b3a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\bdc0a363d597af5755502b0ecf9e9da273aa26ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\f1e43295fdd77eeb9cb9ac3bbd442629c108c221\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\e65f98a7154f3871721e527f853fffc9ad075394\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\758a6f935e607b4ca3cd098a5ec4e63dfb930d08\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\113cb49e83cddb062e22ce7ee2f2cc90733d35ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\eeb36417adad0b6b4b4a6132a75f4fb6322714f4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:22:9-48
+	android:theme
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:25:9-80
+activity#com.example.module_android_bluedemo_532ant.MainActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:27:13-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.module_android_bluedemo_532ant.Sub4TabActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:36:11-39:20
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:37:13-86
+activity#com.example.module_android_bluedemo_532ant.Sub1TabActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:40:10-44:20
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:41:13-86
+activity#com.example.module_android_bluedemo_532ant.Sub3TabActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:45:11-48:20
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:46:13-86
+activity#com.example.module_android_bluedemo_532ant.SubDebugActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:49:11-53:24
+	android:screenOrientation
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:51:14-50
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:50:13-87
+activity#com.example.module_android_bluedemo_532ant.SubBlueSetTabActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:54:11-58:20
+	android:screenOrientation
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:56:14-50
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:55:13-92
+activity#com.example.module_android_bluedemo_532ant.SubSystemActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:59:12-63:20
+	android:screenOrientation
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:61:14-50
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:60:13-88
+activity#com.example.module_android_bluedemo_532ant.OprationBLEActivity
+ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:64:13-68:20
+	android:theme
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:66:14-57
+	android:name
+		ADDED from D:\BaiduYunDownload\module_android_bluedemo_532ant\app\src\main\AndroidManifest.xml:65:13-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\87be16ce0a899f3138a19aa830084972ad108f97\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\211c753ff9759fd8459199b710bf43407bde4b3a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\bdc0a363d597af5755502b0ecf9e9da273aa26ca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\f1e43295fdd77eeb9cb9ac3bbd442629c108c221\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\e65f98a7154f3871721e527f853fffc9ad075394\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\758a6f935e607b4ca3cd098a5ec4e63dfb930d08\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\113cb49e83cddb062e22ce7ee2f2cc90733d35ca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\eeb36417adad0b6b4b4a6132a75f4fb6322714f4\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\9f5fab8ff32ce619d27288c6fc25505ab1d0a8b2\output\AndroidManifest.xml:26:9-47

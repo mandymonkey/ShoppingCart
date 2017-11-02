@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "25.0.1"
+    defaultConfig {
+        applicationId "com.example.module_android_bluedemo_532ant"
+        minSdkVersion 18
+        targetSdkVersion 26
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+//    compile 'com.android.support:appcompat-v7:19.1.0'
+//    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/ModuleAPI_Android_Blue_2.3.3.0.jar')
+    compile 'com.android.support:support-annotations:26.0.0-alpha1'
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+}
